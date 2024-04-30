@@ -16,6 +16,9 @@ Ich möchte eine Webseite machen in welcher steht wer ich bin, was ich gerne mac
 - [ ] zweites
 - [ ] drittes
 - [ ] Viertes AP
-✍️ Heute habe ich... (50-100 Wörter)
+
+✍️ Heute habe ich einen YouTube Course gefunden der 6 Stunden dauert und ich werde diesen Course in den nächsten Wochen folgen. Diesen Course finde ich toll, weil nach jedem «Kapitel» sozusagen gibt es ein paar Aufgaben, die man lösen kann. 
+Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev (47 Wörter)
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
