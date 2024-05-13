@@ -15,7 +15,7 @@ Ich möchte eine Webseite machen in welcher steht wer ich bin, was ich gerne mac
 - [ ] Erstes Arbeitspaket
 - [ ] zweites
 - [ ] drittes
-- [ ] Viertes AP
+- [ ] Viertes 
 
 ✍️ Heute habe ich einen YouTube Course gefunden der 6 Stunden dauert und ich werde diesen Course in den nächsten Wochen folgen. Diesen Course finde ich toll, weil nach jedem «Kapitel» sozusagen gibt es ein paar Aufgaben, die man lösen kann. 
 Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev (47 Wörter)
@@ -24,7 +24,7 @@ Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel
 - [ ] Erstes Arbeitspaket
 - [ ] zweites
 - [ ] drittes
-- [ ] Viertes AP
+- [ ] Viertes 
 
 ✍️ Heute habe ich weiter den YouTube Course weiter geschaut. Ich habe gelernt wie man Transitions, Hover Effekte und Shadows macht. Danach hat der Typ im Course gezeigt, wie man Elemente aus anderen Webseiten nehmen kann. Das fand ich spannend. Danach wurde mir langweilig den gleichen Course zu schauen also habe ich weiter gemacht im Modul 293. Nächste Woche mache ich nur im Modul weiter, weil ich das Gefühl habe, dass ich besser HTML und CSS dort lerne. (79 Wörter))
 
