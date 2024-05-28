@@ -39,7 +39,7 @@ Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel
 
 
 ## 28.05.2024
-- [ ] Den nächsten Kapitel im Tutorial schauen
+- [x] Den nächsten Kapitel im Tutorial schauen
 - [ ] Auf eigenem Projekt ein About Me Page erstellen
 - [ ] mit CSS diese Page gestalten
         
