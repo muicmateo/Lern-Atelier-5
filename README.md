@@ -42,4 +42,11 @@ Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel
 - [x] Den nächsten Kapitel im Tutorial schauen
 - [ ] Auf eigenem Projekt ein About Me Page erstellen
 - [ ] mit CSS diese Page gestalten
-        
+
+✍️ Heute habe ich nur weiter im HTML und CSS course von SimpleDev gearbeitet. Der Grund dafür ist ich habe meinen eigenen HTML Projekt auf meinem PC zuhause und habe es vergessen auf Laptop zu übertragen. Jetzt sehe ich wie wichtig es eigentlich ist, auf GitHub code hochzuladen. 
+
+## 04.06.2024
+- [ ] Meine HomePage gestalten
+- [ ] Meine Aboutme Page gestalten
+- [ ] Meine Liste von favorite Games mit 2 neuen spielen ergänzen
+- [ ] CODE HOCHLADEN!!! 
