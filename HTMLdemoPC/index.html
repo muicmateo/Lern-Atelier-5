@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Index Page</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            min-height: 100vh;
+            padding-top: 60px; /* Adjust for the height of the fixed navbar */
+        }
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            background-color: #4CAF50;
+            color: white;
+            z-index: 1000; /* Ensure the navbar is on top of other content */
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        .hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 80vh;
+            background: url('hero-background.jpg') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            padding: 0 20px;
+        }
+        .hero h1 {
+            font-size: 4em;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.2em;
+        }
+        .favorite-games {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .favorite-games h2 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        .favorite-games a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .favorite-games a:hover {
+            background-color: #45a049;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5em;
+            }
+            .hero p {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">
+            <a href="#">MyLogo</a>
+        </div>
+        <nav>
+            <a href="#">Home</a>           
+            <a href="games.html">My Favorite Games</a>        
+        </nav>
+    </header>
+
+    <div class="content">
+        <h2>About Me</h2>
+        <p>
+            My name is Mateo Muic, and I'm a 17-year-old student at Kanti Baden. 
+            I am originally from Croatia but currently live in Switzerland. 
+            One of my biggest passions is video games.
+        </p>
+    </div>
+
+    <div class="footer">
+        <p>2024 Mateo Muic</p>
+    </div>
+</body>
+</html>
