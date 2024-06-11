@@ -48,5 +48,8 @@ Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel
 ## 04.06.2024
 - [ ] Meine HomePage gestalten
 - [ ] Meine Aboutme Page gestalten
-- [ ] Meine Liste von favorite Games mit 2 neuen spielen ergänzen
-- [ ] CODE HOCHLADEN!!! 
+- [x] Meine Liste von favorite Games mit 2 neuen spielen ergänzen
+- [x] CODE HOCHLADEN!!!
+
+## 11.06.2024
+
