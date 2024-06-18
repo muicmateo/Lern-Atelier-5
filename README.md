@@ -52,5 +52,14 @@ Hier ist Link zum Course: https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel
 - [x] CODE HOCHLADEN!!!
 
 ## 11.06.2024
-- [ ] 
+-
+
+## 18.06.2024
+
+Heute habe ich mit M293 angefangen. Ich habe in HTML und CSS den Mockup, den ich letze Woche gemacht habe, geschrieben. Ich hatte ziemlich viel mühe mit dem Grid aber habe es schlussendlich geschafft im Desktop view. Beim Mobile view also für 600px habe ich bis jetzt noch keine Lösung gefunden.
+
+## 25.06.2024
+
+- [ ] Anfangen Grafiken zu meiner Website hinzufügen
+- [ ] Die andere Pages hinzufügen und mit href verbinden. 
 
