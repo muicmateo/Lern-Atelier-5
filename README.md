@@ -60,6 +60,6 @@ Heute habe ich mit M293 angefangen. Ich habe in HTML und CSS den Mockup, den ich
 
 ## 25.06.2024
 
-- [ ] Anfangen Grafiken zu meiner Website hinzufügen
-- [ ] Die andere Pages hinzufügen und mit href verbinden. 
+- [x] Anfangen Grafiken zu meiner Website hinzufügen
+- [x] Die andere Pages hinzufügen und mit href verbinden. 
 
